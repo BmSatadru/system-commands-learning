@@ -1,0 +1,14 @@
+[quote="sayan, post:55, topic:169105, full:true"]
+There will be 5 questions with no options. Equal weightage.
+
+All weeks are important.
+W1,2,3,5 are foundations which is required to understand and apply other weeks.
+
+W4 regex and grep
+W6 W7 bash scripting
+W8 sed
+W8 awk
+
+All have equal weightage.
+[/quote]
+
