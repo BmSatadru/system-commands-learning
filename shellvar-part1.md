@@ -1,6 +1,6 @@
 # Shell Variables in Linux: A Comprehensive Guide
 
-As a Linux trainer with over a decade of experience training thousands of professionals, I've found that understanding shell variables is fundamental to becoming proficient in Linux. Shell variables store information that can be referenced and manipulated in scripts and on the command line. Let's explore the different types of shell variables with practical examples.
+Shell variables is fundamental to becoming proficient in Linux. Shell variables store information that can be referenced and manipulated in scripts and on the command line. Let's explore the different types of shell variables with practical examples.
 
 ## Frequently Used Shell Variables
 
